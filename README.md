@@ -1,4 +1,10 @@
-# sfml-network-test
+# network-test
 Network study for incoming multiplayer project;
 
-Contains both working UDP and TCP socket connections;
+* [x] SFML UDP Protocol
+* [ ] SFML TCP Protocol
+* [ ] ENet UDP Protocol
+* [ ] ENet TCP Protocol
+* [ ] UDP -> TCP Fallback system
+
+
